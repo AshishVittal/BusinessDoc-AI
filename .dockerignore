@@ -1,0 +1,11 @@
+
+.venv/
+__pycache__/
+*.pyc
+.git/
+.vscode/
+.env
+.streamlit/secrets.toml
+.pytest_cache/
+test_app.py
+
